@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies2 !!! </h1>
+<h1> Hello, Welcome to kiran Technologies2 !!! </h1>
 
